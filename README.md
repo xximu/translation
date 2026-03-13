@@ -53,7 +53,7 @@
 ## 项目结构
 
 ```
-shixi/
+translation/
 ├── app.py                 # Flask应用主文件
 ├── config.py              # 配置文件（需自行创建）
 ├── config.example.py      # 配置文件模板

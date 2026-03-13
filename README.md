@@ -85,7 +85,7 @@ shixi/
 ```bash
 # 如果使用Git
 git clone <repository-url>
-cd shixi
+cd translation
 ```
 
 2. **创建虚拟环境（推荐）**
